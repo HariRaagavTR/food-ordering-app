@@ -15,7 +15,7 @@ npm install
 
 The format of the food items is shown below:
 
-![food-items-format](demo_imgs/food-items.png)
+![food-items-format](demo_imgs/food-items.PNG)
 
 **3. Finally, run this command to start the react app:**
 ```
@@ -24,8 +24,8 @@ npm start
 
 ## Snapshots:
 
-![home-page](demo_imgs/home-page.png)
+![home-page](demo_imgs/home-page.PNG)
 
-![cart](demo_imgs/cart.png)
+![cart](demo_imgs/cart.PNG)
 
 **Important Note:** This application was built as a code-along with <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank">this course</a> on Udemy. This project, though simple, helped me understand some of the newer and more advanced features of ReactJS.
