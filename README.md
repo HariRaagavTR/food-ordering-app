@@ -9,7 +9,7 @@ A very simple food ordering application built using ReactJS. Contains features l
 npm install
 ```
 
-**2. Add your firebase realtime database url in the following files. The standard URL format: <Database_URL>/json_file_name.json**
+**2. Add your firebase realtime database urls in the following files. The standard URL format: <Database_URL>/json_file_name.json**
 - src/components/Cart/Cart.js @ Line 50. (for orders)
 - src/components/Meals/AvailableMeals.js @ Line 34. (for food items)
 
