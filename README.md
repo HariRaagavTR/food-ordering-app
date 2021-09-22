@@ -10,10 +10,10 @@ npm install
 ```
 
 **2. Add your firebase realtime database url in the following files. The standard URL format: <Database_URL>/json_file_name.json**
-- src/components/Cart/Cart.js @ Line 50.
-- src/components/Meals/AvailableMeals.js @ Line 34
+- src/components/Cart/Cart.js @ Line 50. (for orders)
+- src/components/Meals/AvailableMeals.js @ Line 34. (for food items)
 
-The format of the food items is shown below:
+The format for the food-items json file is shown below:
 
 ![food-items-format](demo_imgs/food-items.PNG)
 
